@@ -1,0 +1,9 @@
+{
+  "name": "desafio-02-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.10.1"
+  }
+}
